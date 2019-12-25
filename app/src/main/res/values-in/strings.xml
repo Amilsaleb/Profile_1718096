@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="post">Postingan</string>
+    <string name="following">Pengikut</string>
+    <string name="follow">Mengikuti</string>
+</resources>
